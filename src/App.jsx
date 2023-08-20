@@ -3,8 +3,8 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 
 import Footer from './components/Footer'
-import CompilexDemo from './components/CompilexDemo'
-import CompilerComponent from './components/CompilerComponent'
+// import CompilexDemo from './components/CompilexDemo'
+// import CompilerComponent from './components/CompilerComponent'
 import HeroL from './components/HeroL'
 import './App.css'
 
