@@ -1,42 +1,23 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
+body{
+  
+    background-image: linear-gradient(to right, #60A5FA, #374151);
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+.tech{
+   
+   
+        font-size: 2rem;
+        font-weight: bold;
+        background: linear-gradient(45deg, rgb(104, 68, 68), rgb(29, 136, 29), rgb(32, 32, 219));
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+   
+      
 }
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
+.textsum{
+    background: linear-gradient(45deg, black, rgb(16, 73, 16), rgb(177, 14, 14));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
